@@ -1,0 +1,12 @@
+black
+blue
+bronze
+brown
+green
+olive
+orange
+pink
+purple
+red
+white
+yellow

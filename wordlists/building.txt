@@ -1,0 +1,154 @@
+abbey
+aircraft hangar
+amphitheater
+apartment building
+aqueduct
+arch
+arena
+armory
+assembly hall
+barn
+barracks
+boarding house
+boathouse
+bridge
+building
+bungalow
+bunker
+bunkhouse
+cabin
+castle
+catacomb
+cathedral
+chalet
+chapel
+chateau
+church
+city hall
+clubhouse
+college
+compound
+concert hall
+conservatory
+cottage
+courthouse
+crypt
+depot
+detached house
+dock
+dome
+dormitory
+dwelling
+earth-sheltered house
+embassy
+exposition hall
+factory
+farm
+farmhouse
+ferry slip
+ferry terminal
+fire station
+firehouse
+forge
+fort
+fortress
+foundry
+gallery
+garage
+gas station
+gazebo
+granary
+hall
+hangar
+haunted house
+headquarters
+home
+hospital
+hostel
+hot house
+hotel
+house
+houseboat
+housing project
+hunting lodge
+hut
+jail
+kiosk
+laboratory
+lean-to
+library
+lighthouse
+lodge
+log cabin
+longhouse
+manor
+mansion
+marina
+market
+mausoleum
+meeting hall
+mill
+monastery
+monument
+mosque
+motel
+museum
+observatory
+opera house
+outhouse
+pagoda
+palace
+parking garage
+parliament
+pavilion
+plant
+playhouse
+police station
+pool house
+post office
+power plant
+prison
+pump house
+pyramid
+railway station
+ranch
+rectory
+refinery
+residence
+restaurant
+rowhouse
+school
+shack
+shed
+shelter
+shrine
+silo
+skyway
+smokestack
+spire
+split-level house
+stable
+stadium
+state house
+station
+steeple
+store
+storehouse
+symphony
+synagogue
+temple
+tenement
+tent
+theater
+toll house
+tomb
+tower
+townhouse
+treehouse
+university
+vault
+vicarage
+villa
+warehouse
+watermill
+workshop

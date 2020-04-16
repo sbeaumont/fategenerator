@@ -1,0 +1,7 @@
+suckered by $[organization]
+rival of $[organization]
+cast out of $[organization]
+in trouble with $[organization]
+indebted to $[organization]
+obsessed by $[furniture|material|metal|object_small]
+out for revenge on $[organization]

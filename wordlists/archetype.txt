@@ -1,0 +1,303 @@
+Accountant
+Achiever
+Addict
+Addicted Lover
+Adonis
+Adventurer
+Advocate
+Alchemist
+Amateur
+Ambassador
+Analyst
+Anarchist
+Anchorite
+Angel
+Anima
+Animus
+Apprentice
+Arbitrator
+Architect
+Artisan
+Artist
+Athlete
+Attila
+Attorney
+Author
+Avenger
+Beggar
+Black Widow
+Bon Vivant
+Boss
+Builder
+Bully
+Burglar
+Caregiver
+Casanova
+Celibate
+Challenger
+Champion
+Chef
+Chief
+Child
+Clown
+Communicator
+Companion
+Con Artist
+Consort
+Consumer
+Copyist
+Counselor
+Courier
+Court Jester
+Coward
+Craftsperson
+Creator
+Crime Fighter
+Critic
+Crone
+Damsel
+Dark Lord
+Defender
+Derelict
+Destroyer
+Detached Manipulator
+Detective
+Devotee
+Devouring Mother
+Dilettante
+Diplomat
+Disciple
+Divine Child
+Don Juan
+Double Agent
+Dreamer
+Drunk
+Dummy
+Earth Mother
+Emperor
+Empress
+Enchantress
+Engineer
+Enthusiast
+Entertainer
+Environmentalist
+Epicure
+Escort
+Eternal Boy/Gild
+Evangelist
+Everyman
+Examiner
+Exorcist
+Explorer
+Fairy Godmother
+Father
+Femme Fatale
+Flirt
+Follower
+Fool
+Friend
+Gambler
+Gigolo
+Giver
+Glutton
+Go-Between
+God
+Goddess
+Godfather
+Gourmand
+Gournet
+Grandstander Bully
+Guide
+Gunslinger
+Guru
+Healer
+Hedonist
+Helper
+Herald
+Hermit
+Hero
+Heroine
+High Chair Tyrant
+Ice Queen
+Idiot
+Impotent Lover
+Indentured Servant
+Indigent
+Individualist
+Innocent Child
+Innocent One
+Innovator
+Instructor
+Intellectual
+Intuitive Healer
+Inventor
+Jester
+Journalist
+Judge
+Killer
+King
+Knight
+Leader
+Legislator
+Liberator
+Lobbyist
+Loner
+Loser
+Lover
+Loyalist
+Mad Scientist
+Magical Child
+Magician
+Maiden
+Martyr
+Masochist
+Master
+Matriarch
+Mediator
+Meditator
+Mentor
+Mercenary
+Messenger
+Messiah
+Midas
+Minister
+Minstrel
+Miser
+Momma’s Boy
+Monk
+Monster
+Mother
+Mother Nature
+Muse
+Mystic
+Narrator
+Nerd
+Networker
+Ninja
+Nomad
+Nonconformist
+Novice
+Nun
+Nurse
+Observer
+Oedipal Child
+Olympian
+Orphan
+Orphan Child
+Outcast
+Outlaw
+Patriarch
+Peacemaker
+Perfect Mother
+Perfectionist
+Performer
+Persona
+Philosopher
+Pickpocket
+Pilgrim
+Pioneer
+Pirate
+Poet
+Preacher
+Precocious Child
+Priest
+Priestess
+Prince
+Princess
+Private Investigator
+Profane Prostitute
+Progenitor
+Prophet
+Prostitute
+Protector
+Protester
+Provocateur
+Psychopath
+Queen
+Rabbi
+Rebel
+Redeemer
+Reformer
+Renunciate
+Rescuer
+Revolutionary
+Right Arm
+Robin Hood
+Romantic
+Ruler
+Saboteur
+Sacred Prostitute
+Sadist
+Sage
+Samaritan
+Samurai
+Savior
+Scapegoat
+Scavenger
+Schemer
+Scientist
+Scribe
+Sculptor
+Secretary
+Seducer
+Seductress
+Seeker
+Seer
+Serial Killer
+Serpent
+Servant
+Settler
+Sex Addict
+Shadow
+Shaman
+Shape-shifter
+Sherlock Holmes
+Sidekick
+Siren
+Skeptic
+Slave
+Sleuth
+Snoop
+Sociopath
+Soldier
+Solider of Fortune
+Spell-caster
+Spiritual Master
+Spoiler
+Spy
+Stepmother
+Storyteller
+Student
+Succubus
+Swindler
+Sybarite
+Teacher
+Temptress
+The Self
+Therapist
+Thief
+Tomboy
+Trickster
+Tyrant
+Tutor
+Vagabond
+Vampire
+Victim
+Villian
+Virgin
+Visionary
+Wanderer
+Warrior
+Weakling
+Weakling Prince
+Weaver
+Werewolf
+Wise Old Man
+Wise Woman
+Witch
+Wizard
+Workaholic
+Working Mother
+Wounded Child
+Wounded Healer
+Zombie

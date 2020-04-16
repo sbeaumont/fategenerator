@@ -1,0 +1,181 @@
+{
+  "core": [
+    "Athletics",
+    "Burglary",
+    "Contacts",
+    "Copper",
+    "Crafts",
+    "Deceive",
+    "Drive",
+    "Empathy",
+    "Fight",
+    "Investigate",
+    "Notice",
+    "Physique",
+    "Provoke",
+    "Rapport",
+    "Resources",
+    "Shoot",
+    "Stealth",
+    "Teslatech",
+    "Will"
+  ],
+  "combat": [
+    "Athletics",
+    "Fight",
+    "Notice",
+    "Physique",
+    "Provoke",
+    "Shoot",
+    "Stealth",
+    "Will"
+  ],
+  "mental": [
+    "Deceive",
+    "Empathy",
+    "Notice",
+    "Provoke",
+    "Rapport",
+    "Will"
+  ],
+  "physical": [
+    "Athletics",
+    "Fight",
+    "Notice",
+    "Physique",
+    "Shoot",
+    "Stealth"
+  ],
+  "Action": [
+    "Athletics",
+    "Fight",
+    "Notice",
+    "Physique",
+    "Provoke",
+    "Drive"
+  ],
+  "Aeronaut": [
+    "Athletics",
+    "Drive",
+    "Teslatech",
+    "Crafts"
+  ],
+  "Automata": [
+    "Physique",
+    "Fight"
+  ],
+  "Banter": [
+    "Contacts",
+    "Deceive",
+    "Empathy",
+    "Provoke",
+    "Rapport",
+    "Will"
+  ],
+  "Beast": [
+    "Athletics",
+    "Fight",
+    "Notice",
+    "Physique",
+    "Provoke"
+  ],
+  "Copperhead": [
+    "Copper",
+    "Will"
+  ],
+  "Enforcer": [
+    "Physique",
+    "Provoke"
+  ],
+  "Fighter": [
+    "Athletics",
+    "Fight",
+    "Physique",
+    "Will"
+  ],
+  "Hunter": [
+    "Athletics",
+    "Empathy",
+    "Investigate",
+    "Notice",
+    "Shoot",
+    "Stealth"
+  ],
+  "Influence": [
+    "Contacts",
+    "Empathy",
+    "Rapport",
+    "Resources"
+  ],
+  "Intrigue": [
+    "Athletics",
+    "Burglary",
+    "Contacts",
+    "Deceive",
+    "Notice",
+    "Stealth"
+  ],
+  "Journalist": [
+    "Contacts",
+    "Empathy",
+    "Notice",
+    "Rapport",
+    "Stealth",
+    "Will"
+  ],
+  "Martial Artist": [
+    "Athletics",
+    "Fight",
+    "Notice",
+    "Physique",
+    "Stealth",
+    "Will"
+  ],
+  "Salesman": [
+    "Contacts",
+    "Empathy",
+    "Resources",
+    "Rapport"
+  ],
+  "Scientist": [
+    "Crafts",
+    "Investigate",
+    "Teslatech",
+    "Will"
+  ],
+  "Secret Agent": [
+    "Burglary",
+    "Contacts",
+    "Deceive",
+    "Notice",
+    "Stealth",
+    "Drive"
+  ],
+  "Soldier": [
+    "Contacts",
+    "Fight",
+    "Notice",
+    "Physique",
+    "Shoot",
+    "Will"
+  ],
+  "Tank": [
+    "Fight",
+    "Physique",
+    "Provoke",
+    "Will"
+  ],
+  "Thief": [
+    "Athletics",
+    "Burglary",
+    "Deceive",
+    "Stealth"
+  ],
+  "War Golem": [
+    "Athletics",
+    "Fight",
+    "Notice",
+    "Shoot",
+    "Physique"
+  ]
+}

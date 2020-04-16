@@ -1,0 +1,17 @@
+average
+deep
+flat
+high
+huge
+long
+low
+narrow
+round
+short
+small
+tall
+thick
+thin
+tiny
+wide
+yawning

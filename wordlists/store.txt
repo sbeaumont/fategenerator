@@ -1,0 +1,71 @@
+art gallery
+bakery
+bank
+bar
+barbershop
+beauty salon
+bed and breakfast
+bistro
+bookstore
+boutique
+brasserie
+butcher shop
+cafe
+candy shop
+clothing store
+coffee shop
+college
+community center
+consignment shop
+dentist's office
+diner
+doctor's office
+dollar store
+dressmaker
+fabric store
+factory outlet
+farmer's market
+fix-it shop
+florist
+funeral home
+furniture maker
+furniture store
+general store
+grocery store
+haberdashery
+hairdresser
+hardware store
+hotel
+ice cream shop
+inn
+jewelry store
+kiosk
+library
+lighthouse
+lumberyard
+museum
+park
+parking garage
+pawnshop
+police station
+post office
+pub
+public garden
+quilt store
+real estate agency
+repair shop
+restaurant
+school
+ship dealership
+shoe store
+tailor
+tavern
+tea house
+tearoom
+theater
+thrift store
+town hall
+toy store
+train station
+university
+upholstery shop

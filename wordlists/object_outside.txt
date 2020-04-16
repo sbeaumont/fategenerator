@@ -1,0 +1,39 @@
+barrel
+bin
+canister
+cart
+cask
+casket
+chair
+chest
+columns
+couch
+crates
+curio
+curtains
+cushion
+deck chair
+fence
+fire
+garbage can
+hedge
+locker
+luggage
+oil slick
+people
+pile of $[object_small]
+statue
+stone
+table
+vehicle
+wastebasket
+water
+advertisement
+animal
+family
+grass
+hole
+machine
+mist
+plant
+sign
