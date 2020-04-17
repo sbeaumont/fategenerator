@@ -20,7 +20,7 @@ class Character(object):
         self.archetype = archetype
         self.name = Character.name()
         self.high_concept = Character.high_concept()
-        # The term archetype is a bit overloaded now. I use it to mean character template, but the
+        # The term archetype is overloaded now. I use it to mean character template, but the
         # "archetype" word list refers to literary archetypes, which is to determine
         # a tone of voice for this NPC.
         self.voice = lists.choice('archetype')

@@ -1,3 +1,8 @@
+"""The central repository of all word lists.
+Can choose random words from these word lists,
+and expand $[xxx] template strings to a random value.
+"""
+
 import re
 import os
 from os import listdir
