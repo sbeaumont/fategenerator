@@ -1,0 +1,61 @@
+[
+  {
+    "name": "GenericAverage",
+    "pyramid": {
+      "1": ["core"]
+    }
+  },
+  {
+    "name": "GenericFair",
+    "pyramid": {
+      "2": ["core"],
+      "1": ["core"]
+    }
+  },
+  {
+    "name": "GenericGood",
+    "pyramid": {
+      "3": ["core"],
+      "2": ["core"],
+      "1": ["core"]
+    }
+  },
+  {
+    "name": "Threat",
+    "pyramid": {
+      "5": ["Physique"],
+      "4": ["combat", "combat"],
+      "3": ["core", "core", "core"]
+    }
+  },
+  {
+    "name": "Thief",
+    "pyramid": {
+      "3": ["Thief"],
+      "1": ["Thief"]
+    }
+  },
+  {
+    "name": "Guard",
+    "modes": [
+      "Enforcer",
+      "Fighter"
+    ]
+  },
+  {
+    "name": "War Golem",
+    "modes": [
+      "Automata",
+      "Tank",
+      "Fighter"
+    ]
+  },
+  {
+    "name": "Hunter Golem",
+    "modes": [
+      "Automata",
+      "Beast",
+      "Hunter"
+    ]
+  }
+]
