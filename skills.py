@@ -42,6 +42,10 @@ class Skillset(UserDict):
         return cls(skills_out)
 
     @classmethod
+    def default_pyramid(cls, level=4):
+        return cls.from_pyramid({i: ['core'] * (level - i + 1) for i in range(level, 0, -1)})
+
+    @classmethod
     def from_modes(cls, mode_names: list):
         """Parse a set of modes into a set of concrete skills."""
         with open(SKILL_REPO_FILE) as f:
@@ -61,9 +65,9 @@ class Skillset(UserDict):
 
 
 if __name__ == '__main__':
-    print(Skillset.single_list(Skillset.Good).pyramid)
-    print(Skillset.single_list(Skillset.Fair, "combat").pyramid)
-    print(Skillset.single_list(Skillset.Average).pyramid)
+    print(Skillset.single_list(3).pyramid)
+    print(Skillset.single_list(2, "combat").pyramid)
+    print(Skillset.single_list(1).pyramid)
 
     ss = Skillset.from_modes(["Action", "Automata", "Beast", "Hunter"])
     print(f"Skillset: {ss}")

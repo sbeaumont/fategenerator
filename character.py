@@ -3,11 +3,12 @@ from random import choice
 from skills import Skillset
 import json
 
+# a shorthand for the expand method because it's the core of this generator and used a lot.
 e = lists.expand
 
 # The list of all archetypes
-with open('archetypes.json') as f:
-    archetypes = json.load(f)
+with open('character_templates.json') as f:
+    character_templates = json.load(f)
 
 
 class Character(object):
@@ -30,11 +31,11 @@ class Character(object):
 
     def __str__(self):
         return f"Name: {self.name}\n" \
-            f"HC: {self.high_concept} ({self.archetype})\n" \
-            f" V: {self.voice}\n" \
-            f" T: {self.trouble}\n" \
-            f" M: {' '.join(self.motivations)}\n" \
-            f"Sk: {self.skills.pyramid}"
+            f"High Concept: {self.high_concept} ({self.archetype})\n" \
+            f"Voice:        {self.voice}\n" \
+            f"Trouble:      {self.trouble}\n" \
+            f"Motivations:  {' '.join(self.motivations)}\n" \
+            f"Skills:       {self.skills.pyramid}"
 
     @staticmethod
     def name():
@@ -42,7 +43,7 @@ class Character(object):
 
     @staticmethod
     def motivations(amount=3):
-        """A set of three 'for or against' motivations"""
+        """A set of (default 3) 'for or against' motivations"""
         return [f"{choice(('+', '-'))}{m}" for m in lists.sample('motivation', amount)]
 
     @staticmethod
@@ -56,21 +57,20 @@ class Character(object):
     @classmethod
     def from_archetype(cls, name):
         """Generate character from named archetype"""
-        archetype = [a for a in archetypes if a['name'] == name][0]
+        ct = [a for a in character_templates if a['name'] == name][0]
 
         # Don't use both the modes and pyramid methods in one archetype. Currently the code
         # will just override the mode result with the pyramid result.
         skills = Skillset()
-        if 'modes' in archetype:
-            skills = Skillset.from_modes(archetype['modes'])
-        if 'pyramid' in archetype:
-            skills = Skillset.from_pyramid(archetype['pyramid'])
+        if 'modes' in ct:
+            skills = Skillset.from_modes(ct['modes'])
+        if 'pyramid' in ct:
+            skills = Skillset.from_pyramid(ct['pyramid'])
         return cls(skills, name)
 
 
 if __name__ == '__main__':
     # Generate one character for each archetype
-    for arc in archetypes:
-        print(f"== {arc['name']} ==")
-        print(Character.from_archetype(arc['name']))
-        print()
+    for ct in character_templates:
+        print(f"\n== {ct['name']} ==")
+        print(Character.from_archetype(ct['name']))
